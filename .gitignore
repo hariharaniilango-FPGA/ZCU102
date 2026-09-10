@@ -1,0 +1,37 @@
+# Vivado generated directories
+project_1/project_1.cache/
+project_1/project_1.gen/
+project_1/project_1.runs/
+project_1/project_1.sim/
+project_1/project_1.hw/
+project_1/project_1.ip_user_files/
+project_1/.Xil/
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+
+# Vitis generated directories
+vitis/.metadata/
+vitis/.analytics/
+vitis/IDE.log
+
+# Generated Vitis platform files
+vitis/zcu102_platform/logs/
+vitis/zcu102_platform/export/
+vitis/zcu102_platform/psu_cortexa53_0/
+vitis/zcu102_platform/zynqmp_fsbl/
+vitis/zcu102_platform/zynqmp_pmufw/
+
+# Generated Vitis application files
+vitis/hello_standalone/_ide/
+vitis/hello_standalone/Debug/
+
+# General
+.DS_Store
+Thumbs.db
+
+# Generated hardware binaries
+*.bit
+*.xsa
